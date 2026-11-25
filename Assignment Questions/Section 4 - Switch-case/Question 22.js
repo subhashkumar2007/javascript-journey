@@ -4,7 +4,7 @@
 
 let num1 = 249;
 let num2 = 50;
-let choice = 5;
+let choice = 4;
 
 switch(choice) {
     case 1:
